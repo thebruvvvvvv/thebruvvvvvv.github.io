@@ -21,11 +21,11 @@ div {
 }
 
 .dividersmall {
+  margin: auto;
   height: auto;
   width: 350px;
   display: block;
   object-fit: cover;
-  margin: auto;
 }
 
 
