@@ -13,7 +13,7 @@ div {
   width: 700px;
   display: block;
   object-fit: cover;
-  text-align: center;
+  margin: auto;
 }
 
 .dividersmall {
@@ -21,7 +21,7 @@ div {
   width: 350px;
   display: block;
   object-fit: cover;
-  text-align: center;
+  margin: auto;
 }
 
 
