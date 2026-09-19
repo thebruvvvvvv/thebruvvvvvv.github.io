@@ -9,6 +9,7 @@ div {
 }
 
 .divider {
+  max-height: 80%;
   display: block;
   object-fit: cover;
 }
