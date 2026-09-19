@@ -10,8 +10,16 @@ div {
 
 .divider {
   height: auto;
-  width: 705px;
+  width: 700px;
   display: block;
   object-fit: cover;
 }
+
+.dividersmall {
+  height: auto;
+  width: 350px;
+  display: block;
+  object-fit: cover;
+}
+
 
