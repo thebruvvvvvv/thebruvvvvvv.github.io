@@ -3,12 +3,17 @@ body {
   color: #695650;
 }
 
+a{
+  color: #4d3e3c;
+}
+
 div {
   max-width: 700px;
   border: 3px solid #98b598;
   background: #b6d1b6;
   text-align: center;
   margin: auto;
+  text-align: center;
 }
 
 .divider {
