@@ -8,7 +8,7 @@ div {
   border: 3px solid #98b598;
   background: #b6d1b6;
   text-align: center;
-  padding: auto;
+  margin: auto;
 }
 
 .divider {
