@@ -27,3 +27,9 @@ div {
   padding-left: 200px;
   padding-right: 200px;
 }
+
+.insect-grid{
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto auto;
+}
