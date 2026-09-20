@@ -32,4 +32,5 @@ div {
   display: grid;
   grid-template-columns: 750px 750px;
   grid-template-rows: 750px 750px;
+  padding: auto;
 }
