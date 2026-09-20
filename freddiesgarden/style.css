@@ -26,9 +26,3 @@ div {
   padding-left: 200px;
   padding-right: 200px;
 }
-
-.croppedimg{
-  width: 250px;
-  height: 250px;
-  object-fit: cover;
-}
