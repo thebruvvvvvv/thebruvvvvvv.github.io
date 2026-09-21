@@ -4,3 +4,26 @@ body{
   background: black;
   text-align: center;
 }
+
+/* OOC: Thanks to lambyland.net for this code */
+.message{
+  display: flex;
+  margin: 20px auto;
+  animation: fadeIn 2s ease-in;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.message img{
+  display: block;
+  max-width: 15%;
+  margin: 20px auto;
+  transition: all 0.2s;
+}
+
+.message img:hover{
+  transform: scale(1.05) rotate(-5deg);
+}
+
+.message img:active{
+  transform: scale(0.95) rotate(0deg);
